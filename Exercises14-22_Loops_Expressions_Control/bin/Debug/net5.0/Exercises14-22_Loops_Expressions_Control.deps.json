@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercises14-22_Loops_Expressions_Control/1.0.0": {
+        "runtime": {
+          "Exercises14-22_Loops_Expressions_Control.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercises14-22_Loops_Expressions_Control/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
